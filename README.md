@@ -1,4 +1,4 @@
-//I'm Diogo, a full-stack programmer at .NET languages
+//I'm Diogo, a 20 years old programmer, trying to do some cool stuff
 
 /**
 *
@@ -10,5 +10,10 @@
 *    - WebAPI
 * Xamarin.Forms
 * Windows Forms
+*
+* HTML
+* CSS
+*     - Bootstrap
+* JS
 *
 **/
