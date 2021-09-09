@@ -11,9 +11,9 @@
 * Xamarin.Forms
 * Windows Forms
 *
-* HTML
-* CSS
-*    - Bootstrap
-* JS
+* HTML <br /> 
+* CSS <br />
+*    - Bootstrap <br />
+* JS <br />
 *
 **/
