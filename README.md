@@ -17,3 +17,9 @@
 ** JS <br />
 **<br />
 **/
+
+if (you need some app or Website)
+{
+  string twitter = "@diogosantiago2000";
+  string linkedin = "https://www.linkedin.com/in/diosantiago/";
+}
