@@ -1,4 +1,4 @@
-//I'm Diogo, a 20 years old programmer, trying to do some cool stuff
+// I'm Diogo, a 20 years old programmer, trying to do some cool stuff
 
 /**
 *
@@ -13,7 +13,7 @@
 *
 * HTML
 * CSS
-*     - Bootstrap
+*    - Bootstrap
 * JS
 *
 **/
