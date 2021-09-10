@@ -7,8 +7,8 @@
 
 <p>public static void contactMe()
 {<br />
-  string twitter = "<a href="https://twitter.com/diogosantiago00">@diogosantiago00</a>";<br />
-  string linkedin = "https://www.linkedin.com/in/diosantiago/";<br />
+  string instagram = "<a href="https://www.instagram.com/diogosantiago00/" target="_blank">@diogosantiago00</a>";<br />
+  string linkedin = "<a href="https://www.linkedin.com/in/diosantiago/" target="_blank">diosantiago</a>;<br />
 }</p>
 <br />
 
