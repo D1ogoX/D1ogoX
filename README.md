@@ -7,21 +7,21 @@ if (you need some app or Website)<br />
 }<br />
 <br />
 
-/**<br />
-**<br />
-** Languages: <br />
-** <br />
-** C#<br />
-** ASP.NET<br />
-**    - MVC<br />
-**    - WebAPI<br />
-** Xamarin.Forms<br />
-** Windows Forms<br />
-**<br />
-** HTML <br /> 
-** CSS <br />
-**    - Bootstrap <br />
-** JS <br />
-**<br />
-** SQL<br />
-**/
+<p>/**</p>
+<p>*</p>
+<p>* Languages:</p>
+<p>*</p>
+<p>* C#</p>
+<p>* ASP.NET</p>
+<p>*    - MVC</p>
+<p>*    - WebAPI</p>
+<p>* Xamarin.Forms</p>
+<p>* Windows Forms</p>
+<p>*</p>
+<p>* HTML</p> 
+<p>* CSS</p>
+<p>*    - Bootstrap</p>
+<p>* JS</p>
+<p>*</p>
+<p>* SQL Server</p>
+<p>**/</p>
