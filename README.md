@@ -1,5 +1,18 @@
-// I'm Diogo, a 20 years old programmer, trying to do some cool stuff<br />
+<p>// I'm Diogo, a 20 years old programmer, trying to do some cool stuff</p>
+
 <br />
+
+<p>SELECT COUNT(*) as totalProjects FROM Projects;</p>
+<table>
+  <tr>
+    <th>totalProjects</th>
+  </tr>
+  
+  <tr>
+    <td>10+</td>
+  </tr>
+</table>
+
 <p>if (you need some app or Website || need to see more projects)
 {<br />
   contactMe();<br />
