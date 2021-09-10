@@ -1,5 +1,5 @@
 <p>// I'm Diogo, a 20 years old programmer, trying to do some cool stuff</p>
-
+<hr />
 <br />
 
 <p>SELECT COUNT(*) as totalProjects FROM Projects;</p>
@@ -12,6 +12,9 @@
     <td>10+</td>
   </tr>
 </table>
+
+<hr />
+<br />
 
 <p>if (you need some app or Website || need to see more projects)
 {<br />
