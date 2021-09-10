@@ -19,8 +19,8 @@ if (you need some app or Website)<br />
 <p>* Windows Forms</p>
 <p>*</p>
 <p>* HTML</p> 
-<p>* CSS</p>
-<p>*    - Bootstrap</p>
+<li>* CSS</li>
+<ul>*    - Bootstrap</ul>
 <p>* JS</p>
 <p>*</p>
 <p>* SQL Server</p>
