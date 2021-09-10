@@ -5,10 +5,12 @@
 <p>SELECT COUNT(*) as totalProjects FROM Projects;</p>
 <table>
   <tr>
+    <th></th>
     <th>totalProjects</th>
   </tr>
   
   <tr>
+    <td></td>
     <td>10+</td>
   </tr>
 </table>
