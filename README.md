@@ -1,9 +1,9 @@
 // I'm Diogo, a 20 years old programmer, trying to do some cool stuff<br />
 <br />
-<p>if (you need some app or Website || need to see more projects)<p/>
-<p>{</p>
-<p>  contactMe();</p>
-<p>}</p>
+<p>if (you need some app or Website || need to see more projects)
+{
+  contactMe();
+}</p>
 
 <p>public static void contactMe()</p>
 <p>{</p>
