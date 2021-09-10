@@ -1,10 +1,15 @@
 // I'm Diogo, a 20 years old programmer, trying to do some cool stuff<br />
 <br />
-if (you need some app or Website)<br />
-{<br />
-  &nbsp;string twitter = "@diogosantiago2000";<br />
-  &nbsp;string linkedin = "https://www.linkedin.com/in/diosantiago/";<br />
-}<br />
+<p>if (you need some app or Website || need to see more projects)<p/>
+<p>{</p>
+<p>  contactMe();</p>
+<p>}</p>
+
+<p>public static void contactMe()</p>
+<p>{</p>
+<p>  string twitter = "@diogosantiago2000";</p>
+<p>  string linkedin = "https://www.linkedin.com/in/diosantiago/";</p>
+<p>}</p>
 <br />
 
 <p>/**</p>
