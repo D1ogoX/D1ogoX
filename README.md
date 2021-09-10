@@ -1,15 +1,15 @@
 // I'm Diogo, a 20 years old programmer, trying to do some cool stuff<br />
 <br />
-<p>if (you need some app or Website || need to see more projects)
-{
-  contactMe();
+<p>if (you need some app or Website || need to see more projects)<br />
+{<br />
+  contactMe();<br />
 }</p>
 
-<p>public static void contactMe()</p>
-<p>{</p>
-<p>  string twitter = "@diogosantiago2000";</p>
-<p>  string linkedin = "https://www.linkedin.com/in/diosantiago/";</p>
-<p>}</p>
+<p>public static void contactMe()
+{<br />
+  string twitter = "@diogosantiago2000";<br />
+  string linkedin = "https://www.linkedin.com/in/diosantiago/";<br />
+}</p>
 <br />
 
 <p>/**</p>
